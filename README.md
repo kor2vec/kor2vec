@@ -1,6 +1,6 @@
 # kor2vec
 
-OOV없이 빠르고 정확한 한국어 Embedding
+OOV없이 빠르고 정확한 Char-CNN 기반 한국어 Embedding
 
 ## Installation
 ```shell

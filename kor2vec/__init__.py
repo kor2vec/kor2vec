@@ -7,3 +7,5 @@ from .model.vocab import *
 import warnings
 
 warnings.filterwarnings("ignore")
+
+__name__ = "kor2vec"
