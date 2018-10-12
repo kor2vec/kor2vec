@@ -17,7 +17,7 @@ from setuptools.command.install import install
 import os
 import sys
 
-__version__ = "0.0.1-alpha"
+__version__ = "0.0.1"
 
 with open("requirements.txt") as f:
     require_packages = [line[:-1] for line in f]
