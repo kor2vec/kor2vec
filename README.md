@@ -1,4 +1,4 @@
-# kor2vec [![CircleCI](https://circleci.com/gh/codertimo/kor2vec.svg?style=svg)](https://circleci.com/gh/codertimo/kor2vec)
+# kor2vec [![CircleCI](https://circleci.com/gh/kor2vec/kor2vec.svg?style=svg)](https://circleci.com/gh/kor2vec/kor2vec)
 
 OOV없이 빠르고 정확한 Char-CNN 기반 한국어 Embedding
 
