@@ -62,5 +62,4 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ]
-    # package_data={'kor2vec': ['pretrained/model/sejong.kor2vec']}
 )
