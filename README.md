@@ -93,4 +93,4 @@ x = dense(x) # tensor(batch_size, 1)
 ```
 
 
-Copyright 2018 NAVER Corp and Kor2vec Contributors
+Copyright 2018 Kor2vec Contributors and NAVER Corporation
