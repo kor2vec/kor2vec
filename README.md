@@ -1,4 +1,10 @@
-# kor2vec [![CircleCI](https://circleci.com/gh/kor2vec/kor2vec.svg?style=svg)](https://circleci.com/gh/kor2vec/kor2vec)
+# kor2vec 
+[![CircleCI](https://circleci.com/gh/kor2vec/kor2vec.svg?style=shield)](https://circleci.com/gh/kor2vec/kor2vec)
+[![LICENSE](https://img.shields.io/github/license/kor2vec/kor2vec.svg)](https://github.com/kor2vec/kor2vec/blob/master/LICENSE)
+![PyPI - Status](https://img.shields.io/pypi/status/kor2vec.svg)
+![PyPI](https://img.shields.io/pypi/v/kor2vec.svg)
+[![GitHub stars](https://img.shields.io/github/stars/kor2vec/kor2vec.svg)](https://github.com/kor2vec/kor2vec/stargazers)
+
 
 OOV없이 빠르고 정확한 Char-CNN 기반 한국어 Embedding
 
