@@ -1,0 +1,33 @@
+NOTICE:
+
+    Created by @codertimo on 2018.10.13
+
+    We notice that this project is followed project from naver/kor2vec
+        [naver/kor2vec] link : https://github.com/naver/kor2vec
+
+    and also our LICENSE follows the Apache License 2.0 on naver/kor2vec.
+        - Copyright 2018 NAVER Corp.
+        https://github.com/naver/kor2vec/blob/master/LICENSE
+
+    This project follows the Apache License 2.0 as followed on LICENSE file.
+        - Copyright 2018 kor2vec Contributors
+        https://github.com/kor2vec/kor2vec/blob/master/LICENSE
+
+    Any legal issue comments or feedback about the project
+    would be welcome! Please notify us using issue or maintainer email (codertimo@gmail.com)
+
+    Reason why we rebuilt the organization and project repo of kor2vec are followings.
+
+
+1. Releasing trained model with public non-commercial only corpora
+    Most of corpora which released to public are blocked to use as
+    commercial usage, and only for research purposes.
+    This kind of regulation makes harder to train and release the model
+    from public corpus, when corporation control the open-source project.
+    Even if it's purpose for research works, it has some legal problem
+    in the perspective of company. This is the reason why we made independent organization.
+
+2. Project Managing Issue
+    Currently, Naver corporation has to be the admin of previous naver/kor2vec project.
+    But the main maintainer (first creator @codertimo) is currently not in Naver.
+    It've made some difficulty to add ci, auto-deployment, specific-community rule setting.

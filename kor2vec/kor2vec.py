@@ -1,4 +1,4 @@
-# Copyright 2018 Kor2vec Contributors and NAVER Corporation
+# Copyright 2018 kor2vec Contributors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
